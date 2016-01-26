@@ -1,0 +1,6 @@
+c:\users\qnguyen\documents\visual studio 2013\Projects\ScoreBandTest\ScoreBandTest\bin\Debug\ScoreBandTest.exe.config
+c:\users\qnguyen\documents\visual studio 2013\Projects\ScoreBandTest\ScoreBandTest\bin\Debug\ScoreBandTest.exe
+c:\users\qnguyen\documents\visual studio 2013\Projects\ScoreBandTest\ScoreBandTest\bin\Debug\ScoreBandTest.pdb
+c:\users\qnguyen\documents\visual studio 2013\Projects\ScoreBandTest\ScoreBandTest\obj\Debug\ScoreBandTest.csprojResolveAssemblyReference.cache
+c:\users\qnguyen\documents\visual studio 2013\Projects\ScoreBandTest\ScoreBandTest\obj\Debug\ScoreBandTest.exe
+c:\users\qnguyen\documents\visual studio 2013\Projects\ScoreBandTest\ScoreBandTest\obj\Debug\ScoreBandTest.pdb
