@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 namespace ScoreBandTest
 {
     //This is a branch hotfix test
+
+    //This is a hotfix of a hotfix :-) Let's see what happens
     class Program
     {
         static void Main(string[] args)
         {
-            var score = 657;
+            var score = 658;
             Console.WriteLine(((score % 20) == 0 ? score : score + 20 - (score % 20)));
 
             //Console.WriteLine(score / 10 * 10 + (score / 10 % 2) * 10);
