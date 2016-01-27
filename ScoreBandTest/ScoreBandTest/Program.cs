@@ -8,7 +8,12 @@ namespace ScoreBandTest
 {
     //This is a branch hotfix test
 
+
     //This is a hotfix of a hotfix :-) Let's see what happens
+
+    //Whoops, made the change in the wrong hotfix branch. This should be hotfix_1.1
+
+    //resolve conflict by adding both
     class Program
     {
         static void Main(string[] args)
