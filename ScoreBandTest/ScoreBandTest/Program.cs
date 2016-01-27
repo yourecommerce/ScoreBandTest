@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace ScoreBandTest
 {
     //This is a branch hotfix test
+
+    //Whoops, made the change in the wrong hotfix branch. This should be hotfix_1.1
     class Program
     {
         static void Main(string[] args)
